@@ -1,0 +1,11 @@
+{
+  "domain": "paperless_ngx",
+  "name": "Paperless-ngx",
+  "documentation": "https://github.com/BlackScript/ha-paperless_ngx",
+  "issue_tracker": "https://github.com/BlackScript/ha-paperless_ngx/issues",
+  "dependencies": [],
+  "codeowners": ["@BlackScript"],
+  "requirements": ["requests"],
+  "version": "0.1.0",
+  "config_flow": true
+}
