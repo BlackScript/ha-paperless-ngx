@@ -1,0 +1,18 @@
+{
+  "services": {
+    "upload_document": {
+      "name": "Dokument hochladen",
+      "description": "Ein Dokument zu Paperless-ngx hochladen",
+      "fields": {
+        "file_path": {
+          "name": "File path",
+          "description": "Dateipfad der hochzuladenden Datei"
+        },
+        "title": {
+          "name": "Title",
+          "description": "Titel für die Datei"
+        }
+      }
+    }
+  }
+}
