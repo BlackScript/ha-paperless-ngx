@@ -1,0 +1,22 @@
+{
+    "config": {
+      "step": {
+        "user": {
+          "title": "Paperless-ngx Einstellungen",
+          "description": "Geben Sie die URL und den API-Token für Ihre Paperless-ngx Instanz ein.",
+          "data": {
+            "url": "URL",
+            "api_token": "API Token"
+          }
+        }
+      },
+      "error": {
+        "cannot_connect": "Verbindung fehlgeschlagen",
+        "invalid_auth": "Ungültige Authentifizierung",
+        "unknown": "Unerwarteter Fehler"
+      },
+      "abort": {
+        "already_configured": "Gerät ist bereits konfiguriert"
+      }
+    }
+  }
