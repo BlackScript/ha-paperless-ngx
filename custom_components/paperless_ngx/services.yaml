@@ -1,0 +1,9 @@
+upload_document:
+  description: Upload a document to Paperless-ngx
+  fields:
+    file_path:
+      description: Path to the file to upload
+      example: "/config/my_document.pdf"
+    title:
+      description: Title for the document
+      example: "My Important Document"
