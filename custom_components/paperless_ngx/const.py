@@ -1,0 +1,1 @@
+DOMAIN = "paperless_ngx"
