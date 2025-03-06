@@ -1,0 +1,6 @@
+{
+  "name": "Paperless-ngx",
+  "render_readme": true,
+  "domains": ["sensor"],
+  "iot_class": "cloud_polling"
+}
